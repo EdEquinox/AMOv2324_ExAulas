@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">aula3</string>
+    <string name="hello_world_1">Hello World 1!</string>
+    <string name="hello_world_2">Hello World 2!</string>
+    <string name="hello_cu">Hello cu!</string>
+    <string name="btn1">um</string>
+    <string name="btn4">4</string>
+    <string name="btn3">3</string>
+    <string name="btn2">2</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello_world_1">ola mundo doido</string>
+    <string name="hello_world_2">ola mundo maluco</string>
+    <string name="app_name">aula3</string>
+</resources>
